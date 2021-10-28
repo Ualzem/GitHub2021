@@ -16,6 +16,10 @@ h1 {
     font-size: 5rem;
 }
 
+h2 {
+    text-align: center;
+}
+
 .secundar {
     background-color: chartreuse;
     width: 100%;
